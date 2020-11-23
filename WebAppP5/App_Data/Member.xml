@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Members>
+  <Member>
+    <username>Derek</username>
+    <password>6789</password>
+  </Member>
+  <Member>
+    <username>Dallas</username>
+    <password>1234</password>
+  </Member>
+  <Member>
+    <username>Larissa</username>
+    <password>4321</password>
+  </Member>
+  <Member>
+    <username>Bruce</username>
+    <password>0000</password>
+  </Member>
+</Members>
