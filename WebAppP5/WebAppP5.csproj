@@ -76,6 +76,7 @@
     <Content Include="Login.aspx" />
     <Content Include="Member.aspx" />
     <Content Include="MemberRegister.aspx" />
+    <Content Include="serviceTryit.aspx" />
     <Content Include="Staff.aspx" />
     <Content Include="Unauthorized.aspx" />
     <Content Include="Web.config" />
@@ -113,6 +114,13 @@
       <DependentUpon>MemberRegister.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="serviceTryit.aspx.cs">
+      <DependentUpon>serviceTryit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="serviceTryit.aspx.designer.cs">
+      <DependentUpon>serviceTryit.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Staff.aspx.cs">
       <DependentUpon>Staff.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

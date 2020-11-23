@@ -45,6 +45,11 @@
             </p>
 
         <div style="margin-left: 40px">
+            <br />
+            <asp:Button ID="Button4" runat="server" Text="Go to Larissa Service" OnClick="Button4_Click" />
+            <br />
+            <br />
+            <asp:Button ID="Button5" runat="server" Text="Larissa Global.asax tryIt" OnClick="Button5_Click" />
         </div>
     </form>
 </body>

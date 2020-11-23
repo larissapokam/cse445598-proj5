@@ -26,7 +26,7 @@ namespace WebAppP5
             //Use the Global.asax file function to get information
             Label3.Text = Application["SessionCounter"].ToString();
             //Label5.Text = Application["id"].ToString();
-           // Label7.Text = DateTime.Now.ToString(); //Application["id"].ToString();
+            // Label7.Text = DateTime.Now.ToString(); //Application["id"].ToString();
         }
 
 
@@ -131,5 +131,6 @@ namespace WebAppP5
         {
             Response.Redirect("MemberRegister.aspx");
         }
+
     }
 }

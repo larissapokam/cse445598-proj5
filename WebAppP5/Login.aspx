@@ -38,7 +38,8 @@
         <asp:Label ID="Label2" runat="server" Text="Total number of visitors:"></asp:Label>
         <asp:Label ID="Label3" runat="server" Text="result"></asp:Label>
         <br />
-        
+        <br />
+      
     </form>
 </body>
 </html>
