@@ -21,10 +21,15 @@ namespace WebAppP5
             {
                 lblRegisterOutput.Text = "Welcome, " + myCookies["Name"];
             }
+
+            //Use the Global.asax file function to get information
+            Label3.Text = Application["SessionCounter"].ToString();
         }
 
         protected void btnRegister_Click(object sender, EventArgs e)
         {
+            //Application.RemoveAll();
+
             // image verification situation
 
             // validate username and password
@@ -78,6 +83,7 @@ namespace WebAppP5
             lblRegisterOutput.Text =  String.Format("You are now registered, {0}. " +
                 "Please return to home page and log in", user);
 
+            //Application.RemoveAll();
         }
 
         protected void btnHome_Click(object sender, EventArgs e)

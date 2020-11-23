@@ -29,6 +29,9 @@
 &nbsp;&nbsp;&nbsp;
             <asp:Button ID="btnHome" runat="server" Text="Home" OnClick="btnHome_Click" />
         </p>
+     
+        <asp:Label ID="Label2" runat="server" Text="Visitor"></asp:Label>
+        <asp:Label ID="Label3" runat="server" Text="result"></asp:Label>
     </form>
 </body>
 </html>

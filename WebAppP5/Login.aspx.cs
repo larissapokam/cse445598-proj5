@@ -22,7 +22,13 @@ namespace WebAppP5
                 lblOutput.Text = "Welcome, " + myCookies["Name"];
 
             }
+
+            //Use the Global.asax file function to get information
+            Label3.Text = Application["SessionCounter"].ToString();
+            //Label5.Text = Application["id"].ToString();
+           // Label7.Text = DateTime.Now.ToString(); //Application["id"].ToString();
         }
+
 
         protected void btnMemberLogin_Click(object sender, EventArgs e)
         {
