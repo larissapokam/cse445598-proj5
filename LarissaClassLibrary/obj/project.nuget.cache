@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzXc7EpSHrcjQ4wJ88usCYibN5za+0go6AucssoYXtd0BAscANhzgN9vkgxo5MEeQbmTHjA1+tNRZdGh5ik8kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\larissapokam\\cse445598-proj5\\LarissaClassLibrary\\LarissaClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -156,5 +156,10 @@ namespace WebAppP5
         {
             Response.Redirect("Login.aspx");
         }
+
+        protected void Button6_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("DLLtryIt.aspx");
+        }
     }
 }

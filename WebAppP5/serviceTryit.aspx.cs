@@ -21,10 +21,7 @@ namespace WebAppP5
 
             // String savePath = @"c:\temp\uploads\";
             String savePath = @"c:\Downloads\";
-
-            // Before attempting to perform operations
-            // on the file, verify that the FileUpload 
-            // control contains a file.
+            //verify if the FileUpload control contains a file.
             if (FileUpload1.HasFile)
             {
                 // Get the name of the file to upload.
@@ -34,24 +31,26 @@ namespace WebAppP5
                 savePath += fileName;
 
 
-                // Call the SaveAs method to save the 
-                // uploaded file to the specified path.
-                // This example does not perform all
-                // the necessary error checking.               
-                // If a file with the same name
-                // already exists in the specified path,  
+                // Call the SaveAs method to save the uploaded file to the specified path.                  
+                // If a file with the same name already exists in the specified path,  
                 // the uploaded file overwrites it.
                 FileUpload1.SaveAs(savePath);
 
                 // Notify the user of the name of the file
                 // was saved under.
-                lblmessage.Text = "Your file was saved at     " + savePath;
+                lblmessage.Text = "Your file was store at:" ;
+                Label3.Text = savePath;
             }
             else
             {
                 // Notify the user that a file was not uploaded.
-                lblmessage.Text = "You did not specify a file to upload.";
+                Label3.Text = "You did not specify a file to upload.";
             }
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Default.aspx");
         }
     }
 }

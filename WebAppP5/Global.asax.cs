@@ -10,7 +10,7 @@ namespace WebAppP5
     
     public class Global : System.Web.HttpApplication
     {
-        public static int SessionCounter = 0;
+        public static Int32 SessionCounter = 0;
 
         //string[] users = new string[100];
 
@@ -25,6 +25,7 @@ namespace WebAppP5
         protected void Session_Start(object sender, EventArgs e)
         {
             //code that run when a new session is started
+            SessionCounter = SessionCounter + 1;
 
             int c = Convert.ToInt32(Application["SessionCounter"]);
             if (c > 0)

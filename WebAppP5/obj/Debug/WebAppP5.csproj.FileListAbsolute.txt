@@ -115,3 +115,5 @@ C:\Users\Owner\Source\Repos\larissapokam\cse445598-proj5\WebAppP5\obj\Debug\WebA
 C:\Users\Owner\Source\Repos\larissapokam\cse445598-proj5\WebAppP5\obj\Debug\WebAppP5.csproj.CopyComplete
 C:\Users\Owner\Source\Repos\larissapokam\cse445598-proj5\WebAppP5\obj\Debug\WebAppP5.dll
 C:\Users\Owner\Source\Repos\larissapokam\cse445598-proj5\WebAppP5\obj\Debug\WebAppP5.pdb
+C:\Users\Owner\Source\Repos\larissapokam\cse445598-proj5\WebAppP5\bin\LarissaDLL_ClassLibrary.dll
+C:\Users\Owner\Source\Repos\larissapokam\cse445598-proj5\WebAppP5\bin\LarissaDLL_ClassLibrary.pdb

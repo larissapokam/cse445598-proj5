@@ -72,6 +72,7 @@
     <Content Include="App_Data\Member.xml" />
     <Content Include="App_Data\Staff.xml" />
     <Content Include="Default.aspx" />
+    <Content Include="DLLtryIt.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Login.aspx" />
     <Content Include="Member.aspx" />
@@ -88,6 +89,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DLLtryIt.aspx.cs">
+      <DependentUpon>DLLtryIt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DLLtryIt.aspx.designer.cs">
+      <DependentUpon>DLLtryIt.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -145,7 +153,12 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\LarissaDLL_ClassLibrary\LarissaDLL_ClassLibrary.csproj">
+      <Project>{fecac35f-dae0-47da-afaf-ae337245afbe}</Project>
+      <Name>LarissaDLL_ClassLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -34,8 +34,14 @@
 
          <br />
          <br />
+         <br />
+        <asp:Label ID="Label4" runat="server" Text="The Global.asax handle the protected void Session_Start(object sender, EventArgs e)"></asp:Label>
         <br />
-        <asp:Label ID="Label2" runat="server" Text="Total number of visitors:"></asp:Label>
+        <br />
+        <asp:Label ID="Label5" runat="server" Text="It count the number of session"></asp:Label>
+        <br />
+        <br />
+        <asp:Label ID="Label2" runat="server" Text="Number of visitors:"></asp:Label>
         <asp:Label ID="Label3" runat="server" Text="result"></asp:Label>
         <br />
         <br />
