@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\StorageService",
     "\\WebAppP5"
   ],
-  "SelectedNode": "\\WebAppP5.sln",
+  "SelectedNode": "\\StorageService\\StorageTryIt.aspx.cs",
   "PreviewInSolutionExplorer": false
 }

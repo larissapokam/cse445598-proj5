@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\larissapokam\cse445598-proj5\StorageService\bin\StorageService.dll.config
+C:\Users\Owner\source\repos\larissapokam\cse445598-proj5\StorageService\bin\StorageService.dll
+C:\Users\Owner\source\repos\larissapokam\cse445598-proj5\StorageService\bin\StorageService.pdb
+C:\Users\Owner\source\repos\larissapokam\cse445598-proj5\StorageService\obj\Debug\StorageService.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\larissapokam\cse445598-proj5\StorageService\obj\Debug\StorageService.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\larissapokam\cse445598-proj5\StorageService\obj\Debug\StorageService.dll
+C:\Users\Owner\source\repos\larissapokam\cse445598-proj5\StorageService\obj\Debug\StorageService.pdb

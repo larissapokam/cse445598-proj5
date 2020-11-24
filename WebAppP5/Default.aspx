@@ -46,13 +46,11 @@
 
         <div style="margin-left: 40px">
             <br />
-            <asp:Button ID="Button4" runat="server" Text="Go to Larissa Service TryIt" OnClick="Button4_Click" />
             <br />
             <br />
             <asp:Button ID="Button5" runat="server" Text="Go to Larissa Global.asax TryIt" OnClick="Button5_Click" />
             <br />
             <br />
-            <asp:Button ID="Button6" runat="server" Text="Go to Larissa DLL Library TryIt" OnClick="Button6_Click" />
         </div>
     </form>
 </body>

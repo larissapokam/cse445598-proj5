@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppP5", "WebAppP5\WebApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LarissaDLL_ClassLibrary", "LarissaDLL_ClassLibrary\LarissaDLL_ClassLibrary.csproj", "{FECAC35F-DAE0-47DA-AFAF-AE337245AFBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageService", "StorageService\StorageService.csproj", "{A521053C-B52F-4E77-A1D7-F41348F896CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FECAC35F-DAE0-47DA-AFAF-AE337245AFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FECAC35F-DAE0-47DA-AFAF-AE337245AFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FECAC35F-DAE0-47DA-AFAF-AE337245AFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A521053C-B52F-4E77-A1D7-F41348F896CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A521053C-B52F-4E77-A1D7-F41348F896CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A521053C-B52F-4E77-A1D7-F41348F896CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A521053C-B52F-4E77-A1D7-F41348F896CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

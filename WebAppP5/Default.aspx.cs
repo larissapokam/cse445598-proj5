@@ -147,19 +147,12 @@ namespace WebAppP5
 
         }
 
-        protected void Button4_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("serviceTryit.aspx");
-        }
-
+        
         protected void Button5_Click(object sender, EventArgs e)
         {
             Response.Redirect("Login.aspx");
         }
 
-        protected void Button6_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("DLLtryIt.aspx");
-        }
+      
     }
 }

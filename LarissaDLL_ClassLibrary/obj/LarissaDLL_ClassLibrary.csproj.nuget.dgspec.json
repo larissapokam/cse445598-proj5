@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\source\\repos\\larissapokam\\cse445598-proj5\\LarissaDLL_ClassLibrary\\LarissaDLL_ClassLibrary.csproj": {}
+    "C:\\Users\\Owner\\Source\\Repos\\larissapokam\\cse445598-proj5\\LarissaDLL_ClassLibrary\\LarissaDLL_ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\source\\repos\\larissapokam\\cse445598-proj5\\LarissaDLL_ClassLibrary\\LarissaDLL_ClassLibrary.csproj": {
+    "C:\\Users\\Owner\\Source\\Repos\\larissapokam\\cse445598-proj5\\LarissaDLL_ClassLibrary\\LarissaDLL_ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\larissapokam\\cse445598-proj5\\LarissaDLL_ClassLibrary\\LarissaDLL_ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Source\\Repos\\larissapokam\\cse445598-proj5\\LarissaDLL_ClassLibrary\\LarissaDLL_ClassLibrary.csproj",
         "projectName": "LarissaDLL_ClassLibrary",
-        "projectPath": "C:\\Users\\Owner\\source\\repos\\larissapokam\\cse445598-proj5\\LarissaDLL_ClassLibrary\\LarissaDLL_ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\Owner\\Source\\Repos\\larissapokam\\cse445598-proj5\\LarissaDLL_ClassLibrary\\LarissaDLL_ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\source\\repos\\larissapokam\\cse445598-proj5\\LarissaDLL_ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Source\\Repos\\larissapokam\\cse445598-proj5\\LarissaDLL_ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
